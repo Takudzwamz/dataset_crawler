@@ -1,0 +1,7 @@
+pillow
+numpy
+bs4
+dotenv
+pymongo
+requests
+selenium
