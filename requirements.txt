@@ -1,7 +1,9 @@
 pillow
 numpy
 bs4
-dotenv
+python-dotenv
 pymongo
+selenium-wire
 requests
 selenium
+packaging
